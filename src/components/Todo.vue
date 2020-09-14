@@ -23,7 +23,7 @@ export default {
   }
   button {
   background-color: #c00;
-  border: none;
+  border: 1px solid #ccc;
   color: white;
   text-decoration: none;
   cursor: pointer;
